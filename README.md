@@ -1,6 +1,6 @@
 # web_update_checker
 
-WebのUpdateのChecker
+Web の Update の Checker
 
 ## Getting Started
 
